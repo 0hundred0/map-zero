@@ -20,15 +20,19 @@ Given the requirements received I hope I was able to provide you with a satisfac
 
 ## Rationale
 
-Given the simplicity of the project I wanted to demonstrate not only the solution but how to allow for scalability, add my own personal flair, and come up with multiple methods of completing this task **(the additional methods will be added in separate branches)**
+Given the simplicity of the project I wanted to demonstrate not only the solution but how to allow for scalability, add my own personal flair, and come up with multiple methods of completing this task *(the additional methods will be added in separate branches)*
+
+---
 
 ### Folders
 
-[`src`](./src/): Houses all of the application logic
-[`src/app`](./src/app/): Redux store can be found
-[`src/assets`](./src/assets/): Icon Image and other future assets
-[`src/data`](./src/data/): All the location data provided
-[`src/features`](./src/features/): The Map and the redux logic for the map can be found here
+- [`src`](./src/): Houses all of the application logic
+- [`src/app`](./src/app/): Redux store can be found
+- [`src/assets`](./src/assets/): Icon Image and other future assets
+- [`src/data`](./src/data/): All the location data provided
+- [`src/features`](./src/features/): The Map and the redux logic for the map can be found here
+
+---
 
 ### Usage
 
@@ -38,10 +42,12 @@ Given the simplicity of the project I wanted to demonstrate not only the solutio
 4. Finally run `npm start` in the terminal
 5. Viola you should see all of your pins on the map
 
-### Future Updates
+---
+
+## Future Updates
 
 - Adding & Deleting pins
 - Custom Titles to pins
 - Customizing pin icons
 
-#### If there are any questions or concerns please email me at richmondkijana@gmail.com
+### If there are any questions or concerns please email me at richmondkijana@gmail.com
